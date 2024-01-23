@@ -1,8 +1,8 @@
-# oringo-2.8.0-source-leak
+# Oringo 2.8.0 Source Leak
 
-rip oringo
+rip oringo/dadudze
 
-- Removed descriptor obfuscation
+- Removed invalid bytecode
 - Removed string obfuscation
 - Inlined methods
 - Renamed clasess, methods, fields
